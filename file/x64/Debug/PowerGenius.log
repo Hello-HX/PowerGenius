@@ -1,0 +1,4 @@
+﻿  PowerGenius.cpp
+D:\VisualStudio\Projects\PowerGenius\PowerGenius.cpp(88,25): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\VisualStudio\Projects\PowerGenius\PowerGenius.cpp(88,49): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  PowerGenius.vcxproj -> D:\VisualStudio\Projects\PowerGenius\x64\Debug\PowerGenius.exe
